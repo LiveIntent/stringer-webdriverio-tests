@@ -1,4 +1,4 @@
-# Liveintent-Portal-Test-Automation
+# stringer-webdriverio-tests
 
 This project will be used to run E2E Automation tests liveintent portal app
 
@@ -20,4 +20,3 @@ This project will be used to run E2E Automation tests liveintent portal app
 ## Authors
 
  - Vinod Muralidharan (vmuralidharan@liveintent.com)
-# stringer-webdriverio-tests
