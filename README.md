@@ -13,6 +13,10 @@ This project will be used to run E2E Automation tests liveintent portal app
 ### Setup
 > npm install
 
+##  Code quality check
+
+>  npm run lint:fix
+
 ##  Running the tests
 
 >  npm run wdio
